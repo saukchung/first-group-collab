@@ -1,6 +1,12 @@
+
 // DEPENDENCIES
 // STATE
 // FUNCTIONS
+=======
+// DEPENDENCIES 
+// STATE 
+// FUNCTIONS 
+
 // run the clock - moment & setinterval
 /**
  * a function that updates the current time every second
@@ -19,3 +25,10 @@ function form() {
 // INTERACTIONS
 // user clicks add project
 // INITIALIZATION
+=======
+    console.log("runs the clock")
+}
+
+// INTERACTIONS 
+// user clicks add project
+// INITIALIZATION 
